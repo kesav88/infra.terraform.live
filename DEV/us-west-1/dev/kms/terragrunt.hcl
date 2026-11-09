@@ -18,7 +18,7 @@ include {
 inputs = {
     is_enabled = true,
     enable_key_rotation = true,
-    alias = "kms-key-test"
+    alias = "kms-key"
     tags = {
         "Environment" = local.infra_environment
         "App"         = local.app_environment
