@@ -18,6 +18,6 @@ include {
 inputs = {
     is_enabled = true,
     enable_key_rotation = true,
-    alias = "kms-key-test"
+    alias = "kms-key"
 }
 
